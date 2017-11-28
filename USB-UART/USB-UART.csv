@@ -1,0 +1,29 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C1,C2";"SparkFun-Capacitors-0603";2;"1uF";;; got
+2;"C3";"SparkFun-Capacitors-0603";1;"4.7uF";;; got
+3;"C4";"SparkFun-Capacitors-0603";1;"0.1uF";;; got 50v x7r
+5;"D1";"D_SOD-323_HandSoldering";1;"D_Schottky_Small";;; Got 
+9;"J1";"SparkFun-Connectors-1X06_NO_SILK";1;"UART";;; Got
+10;"J2";"SparkFun-Connectors-1X04_NO_SILK";1;"Power";;; got
+12;"J5";"SparkFun-Connectors-1X03_NO_SILK";1;"JumperV";;; got
+13;"R1";"SparkFun-Resistors-0603";1;"100k";;; got
+15;"R3";"SparkFun-Resistors-0603";1;"1K";;; got
+16;"R4,R6,R7";"SparkFun-Resistors-0603";3;"470";;; got
+17;"R5,R11";"SparkFun-Resistors-0603";2;"10K";;; got
+18;"U1";"nixiemisc-QFN28G_0.5-5X5MM";1;"CP2102N";;; got
+21;"J6";"SparkFun-Connectors-1X03_NO_SILK";1;"JumperS";;; got
+22;"R8,R9";"SparkFun-Resistors-0603";2;"12K";;; got
+23;"R10";"SparkFun-Resistors-0603";1;"4.7K";;; got
+24;"U4";"nixiemisc-UMT6";1;"UMH3NUMT6";;; got
+25;"J4";"SparkFun-Connectors-1X05_NO_SILK";1;"Charge";;; got
+27;"G***";"mermaid_l";1;"LOGO";;; got
+
+4;"C5";"SparkFun-Capacitors-0603";1;"100pF";;; *
+6;"D2";"SparkFun-LED-LED-0603";1;"SPND";;; yellow
+7;"D3";"SparkFun-LED-LED-0603";1;"TX";;; red
+8;"D4";"SparkFun-LED-LED-0603";1;"RX";;; green
+11;"J3";"SparkFun-Connectors-USB-B-MICRO-SMD";1;"USB_MICRO-B_FEMALE-SMT";;; *
+14;"R2";"SparkFun-Resistors-0603";1;"1M";;; *
+19;"U2";"nixiemisc-SOT25";1;"AP2112";;; *
+20;"U3";"nixiemisc-SOT143";1;"ESD";;; got one, maybe get more *
+26;"J7";"Socket_Strip_Straight_2x04_Pitch2.54mm";1;"ESP01";;;
